@@ -1,0 +1,4 @@
+export const searchType = {
+  ADD_VALUE_TO_SEARCH: "ADD_VALUE_TO_SEARCH",
+  RESET_SEARCH: "RESET_SEARCH",
+};
